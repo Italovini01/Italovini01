@@ -1,7 +1,9 @@
 ### Olá! Eu Sou Italo Vinicius 🙋‍♂️
+### Olá! Eu Sou Italo Vinicius 🙋‍♂️
 [![Blog](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://vercel.com/italovini01)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/italo_vini03/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italoviniciusfullstackpython/)
+
 ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=Italovini01&show_icons=true&theme=onedark)
 
 ###  <i>Tecnologias que estou aprendendo no dia a dia!!!</i>
@@ -18,4 +20,10 @@
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</div>
+</div></br>
+
+<i>Procurando Ser 1% melhor todos os dias!!!</i></br>
+<i>Apaixonado Por Tecnologias!!!</i> 🇧🇷 - 🇵🇹 </br>
+Contatos ↘️</br>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](italorodrigues476@gmail.com)
+
