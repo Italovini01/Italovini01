@@ -3,7 +3,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/italo_vini03/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italoviniciusfullstackpython/)
 
-![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=Italovini01&show_icons=true&theme=onedark)
+![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italovini01&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italovini01&layout=donut-vertical)](https://github.com/italovini01/github-readme-stats)
 
 ###  <i>Tecnologias que estou aprendendo no dia a dia!!!</i>
 
